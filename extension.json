@@ -1,0 +1,13 @@
+{
+  "version": "0.0.1",
+  "apiVersion": "1.0.0",
+  "author": "Ryan Huffman",
+  "description": "A set of test scripts",
+  "name": "mine",
+  "extensions": {
+    "My HLA": {
+      "type": "HighLevelAnalyzer",
+      "entryPoint": "src.HighLevelAnalyzer.Hla"
+    }
+  }
+}
