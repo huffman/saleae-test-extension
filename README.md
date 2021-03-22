@@ -1,2 +1,3 @@
 # saleae-test-extension
-v7
+v10
+
